@@ -1,0 +1,65 @@
+@model IEnumerable<FirstSchool.Models.Escuela>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Lista de Escuelas</h1>
+
+<p>
+    <a class="btn btn-primary btn-sm mr-4" asp-action="Create">Crear Escuela</a>
+</p>
+<table class="table table-dark table-hover table-sm">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoEscuela)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Since)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dirección)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ciudad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pais)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoEscuela)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Since)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dirección)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ciudad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pais)
+            </td>
+            <td>
+                <a class="btn btn-outline-primary btn-sm mr-4" asp-route-Id="@item.Id" asp-action="Details">Detalle</a>
+                <a class="btn btn-outline-success btn-sm mr-4" asp-route-Id="@item.Id" asp-action="Edit">Editar</a>
+                <a class="btn btn-outline-danger btn-sm mr-4" asp-route-Id="@item.Id" asp-action="Delete">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,47 @@
+@model IEnumerable<FirstSchool.Models.Curso>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Lista de Cursos</h1>
+
+<p>
+    <a class="btn btn-primary btn-sm mr-4" asp-action="Create">Crear Curso</a>
+</p>
+<table class="table table-dark table-hover table-sm">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Jornada)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Escuela)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Jornada)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Escuela.Nombre)
+            </td>
+            <td>
+                <a class="btn btn-outline-primary btn-sm mr-4" asp-route-Id="@item.Id" asp-action="Details">Detalle</a>
+                <a class="btn btn-outline-success btn-sm mr-4" asp-route-Id="@item.Id" asp-action="Edit">Editar</a>
+                <a class="btn btn-outline-danger btn-sm mr-4" asp-route-Id="@item.Id" asp-action="Delete">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

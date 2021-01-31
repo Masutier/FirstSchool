@@ -1,0 +1,53 @@
+@model IEnumerable<FirstSchool.Models.Evaluacion>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Lista de Evaluaciones</h1>
+
+<p>
+    <a class="btn btn-primary btn-sm mr-4" asp-action="Create">Crear Evaluacion</a>
+</p>
+<table class="table table-dark table-hover table-sm">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Asignatura)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Alumno)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nota)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Asignatura.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Alumno.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nota)
+            </td>
+            <td>
+                <a class="btn btn-outline-primary btn-sm mr-4" asp-route-Id="@item.Id" asp-action="Details">Detalle</a>
+                <a class="btn btn-outline-success btn-sm mr-4" asp-route-Id="@item.Id" asp-action="Edit">Editar</a>
+                <a class="btn btn-outline-danger btn-sm mr-4" asp-route-Id="@item.Id" asp-action="Delete">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
