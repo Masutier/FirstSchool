@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool.csproj",
+  "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\FirstSchool.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15603,193 +15603,193 @@
   "RootNamespace": "FirstSchool",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Asignatura\\Details.cshtml",
-      "TargetPath": "Views\\Asignatura\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Asignatura\\Delete.cshtml",
-      "TargetPath": "Views\\Asignatura\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Alumno\\Create.cshtml",
-      "TargetPath": "Views\\Alumno\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Curso\\Edit.cshtml",
-      "TargetPath": "Views\\Curso\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Curso\\Details.cshtml",
-      "TargetPath": "Views\\Curso\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Curso\\Delete.cshtml",
-      "TargetPath": "Views\\Curso\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Asignatura\\Index.cshtml",
-      "TargetPath": "Views\\Asignatura\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Alumno\\Details.cshtml",
-      "TargetPath": "Views\\Alumno\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Alumno\\Delete.cshtml",
-      "TargetPath": "Views\\Alumno\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Escuela\\Create.cshtml",
-      "TargetPath": "Views\\Escuela\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Asignatura\\Edit.cshtml",
-      "TargetPath": "Views\\Asignatura\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Shared\\Menu.cshtml",
-      "TargetPath": "Views\\Shared\\Menu.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Evaluacion\\Edit.cshtml",
-      "TargetPath": "Views\\Evaluacion\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Curso\\MultiCurso.cshtml",
-      "TargetPath": "Views\\Curso\\MultiCurso.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Evaluacion\\Index.cshtml",
-      "TargetPath": "Views\\Evaluacion\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Escuela\\Index.cshtml",
-      "TargetPath": "Views\\Escuela\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Curso\\Create.cshtml",
-      "TargetPath": "Views\\Curso\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Evaluacion\\Details.cshtml",
-      "TargetPath": "Views\\Evaluacion\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Escuela\\Details.cshtml",
-      "TargetPath": "Views\\Escuela\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Evaluacion\\Delete.cshtml",
-      "TargetPath": "Views\\Evaluacion\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Escuela\\Delete.cshtml",
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Escuela\\Delete.cshtml",
       "TargetPath": "Views\\Escuela\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Evaluacion\\Create.cshtml",
-      "TargetPath": "Views\\Evaluacion\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Asignatura\\MultiAsignatura.cshtml",
-      "TargetPath": "Views\\Asignatura\\MultiAsignatura.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Alumno\\Index.cshtml",
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Alumno\\Index.cshtml",
       "TargetPath": "Views\\Alumno\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Shared\\ListaObjetoEscuela.cshtml",
-      "TargetPath": "Views\\Shared\\ListaObjetoEscuela.cshtml",
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Curso\\Index.cshtml",
-      "TargetPath": "Views\\Curso\\Index.cshtml",
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Escuela\\Edit.cshtml",
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Escuela\\Edit.cshtml",
       "TargetPath": "Views\\Escuela\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Alumno\\MultiAlumno.cshtml",
-      "TargetPath": "Views\\Alumno\\MultiAlumno.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Alumno\\Edit.cshtml",
-      "TargetPath": "Views\\Alumno\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Shared\\ObjetoEscuelaSimple.cshtml",
-      "TargetPath": "Views\\Shared\\ObjetoEscuelaSimple.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\Asignatura\\Create.cshtml",
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Asignatura\\Create.cshtml",
       "TargetPath": "Views\\Asignatura\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Curso\\Delete.cshtml",
+      "TargetPath": "Views\\Curso\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Curso\\Edit.cshtml",
+      "TargetPath": "Views\\Curso\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Asignatura\\Index.cshtml",
+      "TargetPath": "Views\\Asignatura\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Asignatura\\Edit.cshtml",
+      "TargetPath": "Views\\Asignatura\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Escuela\\Index.cshtml",
+      "TargetPath": "Views\\Escuela\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Asignatura\\MultiAsignatura.cshtml",
+      "TargetPath": "Views\\Asignatura\\MultiAsignatura.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Evaluacion\\Delete.cshtml",
+      "TargetPath": "Views\\Evaluacion\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Alumno\\MultiAlumno.cshtml",
+      "TargetPath": "Views\\Alumno\\MultiAlumno.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Curso\\Details.cshtml",
+      "TargetPath": "Views\\Curso\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Evaluacion\\Edit.cshtml",
+      "TargetPath": "Views\\Evaluacion\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Alumno\\Delete.cshtml",
+      "TargetPath": "Views\\Alumno\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Evaluacion\\Index.cshtml",
+      "TargetPath": "Views\\Evaluacion\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Evaluacion\\Details.cshtml",
+      "TargetPath": "Views\\Evaluacion\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Shared\\ListaObjetoEscuela.cshtml",
+      "TargetPath": "Views\\Shared\\ListaObjetoEscuela.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Curso\\Create.cshtml",
+      "TargetPath": "Views\\Curso\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Alumno\\Create.cshtml",
+      "TargetPath": "Views\\Alumno\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Alumno\\Edit.cshtml",
+      "TargetPath": "Views\\Alumno\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Asignatura\\Delete.cshtml",
+      "TargetPath": "Views\\Asignatura\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Curso\\Index.cshtml",
+      "TargetPath": "Views\\Curso\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Escuela\\Create.cshtml",
+      "TargetPath": "Views\\Escuela\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Alumno\\Details.cshtml",
+      "TargetPath": "Views\\Alumno\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Asignatura\\Details.cshtml",
+      "TargetPath": "Views\\Asignatura\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Curso\\MultiCurso.cshtml",
+      "TargetPath": "Views\\Curso\\MultiCurso.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Escuela\\Details.cshtml",
+      "TargetPath": "Views\\Escuela\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Evaluacion\\Create.cshtml",
+      "TargetPath": "Views\\Evaluacion\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Shared\\Menu.cshtml",
+      "TargetPath": "Views\\Shared\\Menu.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\masut\\Documents\\prog\\platzi\\FirstSchool\\FirstSchool\\Views\\Shared\\ObjetoEscuelaSimple.cshtml",
+      "TargetPath": "Views\\Shared\\ObjetoEscuelaSimple.cshtml",
       "FileKind": "mvc"
     }
   ],
